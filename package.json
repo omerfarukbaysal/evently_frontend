@@ -1,5 +1,9 @@
 {
+  "name": "evently",
   "private": true,
+  "description": "Evently is an application where you can create and view events.",
+  "version": "0.1.0",
+  "author": "Ömer Faruk Baysal",
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
